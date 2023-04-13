@@ -4,7 +4,7 @@
 
 ### Day 11: 2D Arrays
 
-[Problem description](30-days-of-code/d-11_2D_Arrays/README.md)
+[Problem description](src/org/dimio/problem/hacker/rank/thirty_days_of_code/d11_2d_arrays/README.md)
 
 + [Universal solution (Perl 5)](src/org/dimio/problem/hacker/rank/thirty_days_of_code/d11_2d_arrays/universal_solution_p5.pl)
 + [Specific solution (Java 8)](src/org/dimio/problem/hacker/rank/thirty_days_of_code/d11_2d_arrays/Solution.java)
